@@ -77,5 +77,5 @@ app.listen(port, () =>{
     console.log('Running Genius Server on Port', port)
 })
 
-// Pass : pX3vXBTFb3V2nE6b
-// User : tripTravel 
+// DB_USER=tripTravel
+// DB_PASS=pX3vXBTFb3V2nE6b
